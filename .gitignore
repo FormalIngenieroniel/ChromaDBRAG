@@ -1,0 +1,14 @@
+# Entorno virtual
+env/
+*.env
+
+.c9/
+*..c9
+
+.git/
+*..git
+
+# Archivos de compilación
+*.pyc
+*.pyo
+__pycache__/
